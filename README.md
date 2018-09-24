@@ -21,12 +21,16 @@ x_n,y_n,theta_n
 
 ## Prequirement:
 g++
+
 cmake 3.5 minimum
 
 ## How to compile:
 mkdir build
+
 cd build
+
 cmake ..
+
 make
 
 ## Usage
