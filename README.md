@@ -19,7 +19,7 @@ A simple tool to convert ISO 19794-2 fingerprint minutiae template to the follow
 
       x_n,y_n,theta_n
 
-## Prequirement:
+## Requirement:
 g++
 
 cmake 3.5 minimum
